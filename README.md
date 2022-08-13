@@ -1,1 +1,1 @@
-# BMI-calculator
+# BMI-calculator app using python
